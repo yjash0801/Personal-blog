@@ -1,0 +1,39 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+  h1{
+    font-family: 'Pacifico', cursive;
+    font-size: 90px;
+  }
+.top-container{
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px;
+
+}
+
+.middle-container{
+font-family: 'Merriweather', sans-serif;
+background-color: #E4F9F5;
+}
+
+.bottom-container{
+  background-color: #E4F9F5;
+
+}
+.top-cloud{
+  position: absolute;
+  right: 350px;
+  top: 50px;
+}
+
+.bottom-cloud{
+  position: absolute;
+  bottom: 350px;
+  left: 350px;
+}
+.pro{
+  border-radius: 50%;
+}
